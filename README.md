@@ -1,8 +1,7 @@
-# React + Vite
+# Projeto de Contagem Regressiva
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto permite criar uma contagem regressiva personalizada
 
-Currently, two official plugins are available:
+Este projeto combina interatividade com personalização visual, sendo útil para eventos, lembretes ou comemorações.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/user-attachments/assets/79aa9a49-d23a-4a0c-9cf7-2fc2f966b300)
