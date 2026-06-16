@@ -4,7 +4,7 @@ import { CountdownContext } from '../context/CountdownContext';
 
 import { useNavigate } from 'react-router-dom';
 
-import './home.css'
+import './Home.css'
 
 const Home = () => {
     const [title, setTitle] = useState();
